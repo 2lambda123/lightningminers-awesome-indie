@@ -113,31 +113,33 @@ by **[@mezod](https://twitter.com/mezood)** (Doing things every day with **[ever
 
 - **[Startups for the rest of us](http://www.startupsfortherestofus.com/)**
 
-  由 [Rob Walling](https://twitter.com/robwalling) 和 [Mike Taber](https://twitter.com/SingleFounder)在 2010 年发起的这个项目几乎涵盖了小微创业团队所需要的一切。在[这里](http://www.startupsfortherestofus.com/greatest-hits)你可以找到他们所有播客中点击量最多的那些。
+  由 [Rob Walling](https://twitter.com/robwalling) 和 [Mike Taber](https://twitter.com/SingleFounder) 在 2010 年发起的这个项目几乎涵盖了小微创业团队所需要的一切。在[这里](http://www.startupsfortherestofus.com/greatest-hits)你可以找到他们所有播客中点击量最多的那些。
 
 - **[Product People](http://www.productpeople.tv/)**
 
-  一个专注于伟大产品与其创始团队的播客，由[Justin Jackson](https://twitter.com/mijustin)在 2012 年创立。
+  一个专注于伟大产品与其创始团队的播客，由 [Justin Jackson](https://twitter.com/mijustin) 在 2012 年创立。
 
 - **[bootstrapped.fm](http://bootstrapped.fm/)**
 
-  这个播客主要是关于在线创业的各种主题，由 [Ian Landsman](https://twitter.com/ianlandsman) 和 [Andrey Butov](https://twitter.com/andrey_butov) 创办于 2013年。
+  这个播客主要是关于在线创业的各种主题，由 [Ian Landsman](https://twitter.com/ianlandsman) 和 [Andrey Butov](https://twitter.com/andrey_butov) 创办于 2013 年。
   
 - **[Bootstrapped Web](http://bootstrappedweb.com)**
 
-  "To share the lessons we learn by doing, and learn from the things that others are doing, to help us all get ahead as we bootstrap our businesses online." Since 2013 by [Brian Casel](https://twitter.com/CasJam) and [Jordan Gal](https://twitter.com/JordanGal).
+  “通过分享我们和其他人的实践经验，来帮助我们在启动线上创业的时候领先一步。”由 [Brian Casel](https://twitter.com/CasJam) 和 [Jordan Gal](https://twitter.com/JordanGal) 创办于 2013 年。
   
 - **[Entreprogrammers](http://entreprogrammers.com/)**
 
-  A podcast for developreneurs. Run by [Josh Earl](https://twitter.com/josh_earl), [John Sonmez](https://twitter.com/jsonmez), [Derick Bailey](https://twitter.com/derickbailey) and [Charles Max Wood](https://twitter.com/cmaxw) since 2014.
+  为技术型创业者而创建的播客，由 [Josh Earl](https://twitter.com/josh_earl), [John Sonmez](https://twitter.com/jsonmez), [Derick Bailey](https://twitter.com/derickbailey) 和 [Charles Max Wood](https://twitter.com/cmaxw) 创办于 2014 年。
 
 - **[IndieHackers](https://www.indiehackers.com/businesses)**
+
+  [Courtland Allen](https://twitter.com/csallen?lang=ca) 在这个播客上记录了与一些最成功的独立开发者的访谈。这个播客开始于 2017 年初，但是到目前为止已经有了 12 个内容、笔记、相关链接都十分丰富系列了。
 
   Podcast where [Courtland Allen](https://twitter.com/csallen?lang=ca) interviews some of the most successful indiehackers featured on the site. Started in early 2017 already has 12 episodes with great content and very carefully crafted related notes and links.
   
 - **[The SaaS Bootstrapper](http://thesaasbootstrapper.com/)**
 
-  Interviews with entrepreneurs and bootstrappers about bootstrapping, SaaS, growth, marketing, and other startup topics. By [Mac Martine](http://macmartine.com/).
+  围绕引导、SaaS、成长、市场和其他创业相关的话题，与创业者和引导者展开的访谈。播客作者是 [Mac Martine](http://macmartine.com/)。
   
 - **[Smart Passive Income](https://www.smartpassiveincome.com/podcasts/)**
 
