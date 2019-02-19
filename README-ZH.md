@@ -27,7 +27,7 @@ by **[@mezod](https://twitter.com/mezood)** (Doing things every day with **[ever
 
 - [社区](#communities)
 - [Newsletters](#newsletters)
-- [Podcasts](#podcasts)
+- [播客](#播客)
 - [Talks](#talks)
 - [Posts](#posts)
 - [Blogs](#blogs)
@@ -109,19 +109,19 @@ by **[@mezod](https://twitter.com/mezood)** (Doing things every day with **[ever
   Weekly roundups of stories, guides and resources to help you grow your internet business. Every Friday. Free.
   Curated by [Nicolas de Thoré](https://twitter.com/ndethore)
 
-### Podcasts
+### 播客
 
 - **[Startups for the rest of us](http://www.startupsfortherestofus.com/)**
 
-  Started in 2010 by [Rob Walling](https://twitter.com/robwalling) and [Mike Taber](https://twitter.com/SingleFounder) have covered almost everything there is to cover in micropreneurship. [Here](http://www.startupsfortherestofus.com/greatest-hits) you can find a 'best of' selection of their podcast.
+  由 [Rob Walling](https://twitter.com/robwalling) 和 [Mike Taber](https://twitter.com/SingleFounder)在 2010 年发起的这个项目几乎涵盖了小微创业团队所需要的一切。在[这里](http://www.startupsfortherestofus.com/greatest-hits)你可以找到他们所有播客中点击量最多的那些。
 
 - **[Product People](http://www.productpeople.tv/)**
 
-  A podcast focused on great products and the people who make them. Since 2012. By [Justin Jackson](https://twitter.com/mijustin).
+  一个专注于伟大产品与其创始团队的播客，由[Justin Jackson](https://twitter.com/mijustin)在 2012 年创立。
 
 - **[bootstrapped.fm](http://bootstrapped.fm/)**
 
-  Several different topics around bootstrapping online businesses. Started in 2013 by [Ian Landsman](https://twitter.com/ianlandsman) and [Andrey Butov](https://twitter.com/andrey_butov).
+  这个播客主要是关于在线创业的各种主题，由 [Ian Landsman](https://twitter.com/ianlandsman) 和 [Andrey Butov](https://twitter.com/andrey_butov) 创办于 2013年。
   
 - **[Bootstrapped Web](http://bootstrappedweb.com)**
 
