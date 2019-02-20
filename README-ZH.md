@@ -33,7 +33,7 @@ by **[@mezod](https://twitter.com/mezood)** (Doing things every day with **[ever
 - [Blogs](#blogs)
 - [Case Studies](#case-studies)
 - [Events](#events)
-- [Books](#books)
+- [书籍](#书籍)
 - [Tools](#tools)
 - [Courses](#courses)
 - [Specific Topics](#specific-topics)
@@ -338,12 +338,12 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 
   "A conference for those who make the web, and make it their business". Seattle (changes every year). By [Jessica D'Amico](https://twitter.com/justjessdc).
 
-### Books
+### 书籍
 
 - **[Start Small, Stay Small](https://www.amazon.com/Start-Small-Stay-Developers-Launching-ebook/dp/B003YH9MMI/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1493983910&sr=1-1&keywords=start+small+stay+small)** [$] by [Rob Walling](https://twitter.com/robwalling).
-- **[Building Micro-SaaS Businesses](https://tylertringas.com/micro-saas-ebook/)** by [Tyler Tringas](https://twitter.com/tylertringas). - A collection of very well structured posts that cover the most initial struggles of an indie dev on the way to build a MicroSaaS. I can personally endorse it and I'm eager to read the yet to be written chapters :)
+- **[Building Micro-SaaS Businesses](https://tylertringas.com/micro-saas-ebook/)** by [Tyler Tringas](https://twitter.com/tylertringas). - Micro-SaaS 是由一个人或一支小团队运营的软件服务，这本书主要讲述如何构建一个 Micro-SaaS 并从中获取收益，我个人很认可它并期待还未编写的章节。
 - **[The Single Founder Handbook](http://www.singlefounderhandbook.com/)** [$] by [Mike Taber](https://twitter.com/SingleFounder).
-- **[Getting Real](https://gettingreal.37signals.com/)** by [37signals](https://37signals.com). - More focused on building web applications, I really recommend it. Short, straight to the point, very easy to read and full of valuable content.
+- **[Getting Real](https://gettingreal.37signals.com/)** by [37signals](https://37signals.com). - 专注于构建 Web 应用程序，我推荐它的原因是其内容简短并易于阅读。
 - **[MAKE](https://makebook.io/)** [$] by [Pieter Levels](https://twitter.com/levelsio).
 - **[Rework](https://37signals.com/rework)** [$] by [37signals](https://37signals.com).
 - **[Just Fucking Ship](https://unicornfree.com/just-fucking-ship/)** [$] by [Amy Hoy](https://twitter.com/amyhoy) and [Alex Hillman](https://twitter.com/alexhillman).
@@ -352,8 +352,8 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 
 ##### Other
 
-- **[Groundera.com](https://groundera.com/)** - A collection of indie books, most of them free, for entrepreneurs. By [Philipp](https://groundera.com/about).
-- **[SideProject Books](https://books.makesideproject.com/)** - Side Project Books is a curated collection of books for anyone interested in building a business on the side. By [Mubashar Iqbal](https://twitter.com/mubashariqbal)
+- **[Groundera.com](https://groundera.com/)** - 为你提供了很多独立开发相关的书籍并且大部分还是免费的。 By [Philipp](https://groundera.com/about).
+- **[SideProject Books](https://books.makesideproject.com/)** - Side Project Books 是一本精选的书籍集合，适合于任何有兴趣建立业务的人。 By [Mubashar Iqbal](https://twitter.com/mubashariqbal)
 - **[The SaaS Bootstrapper book list](http://thesaasbootstrapper.com/book-list/)** - Collection curated by [Mac Martine](http://macmartine.com/). 
 - **[Badass: Making Users Awesome](https://www.amazon.com/Badass-Making-Awesome-Kathy-Sierra-ebook/dp/B00VAUIM18/ref=sr_1_1?s=books&ie=UTF8&qid=1493985078&sr=1-1&keywords=badass+kathy+sierra)** [$] by [Kathy Sierra](http://seriouspony.com/).
 - **[Anything You Want](https://www.amazon.com/dp/B00SI0B5FS/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)** [$] by [Derek Sivers](https://twitter.com/sivers).
