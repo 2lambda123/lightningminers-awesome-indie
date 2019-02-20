@@ -32,7 +32,7 @@ by **[@mezod](https://twitter.com/mezood)** (Doing things every day with **[ever
 - [Posts](#posts)
 - [Blogs](#blogs)
 - [Case Studies](#case-studies)
-- [Events](#events)
+- [实时](#实时)
 - [书籍](#书籍)
 - [工具](#工具)
 - [课程](#课程)
@@ -304,41 +304,43 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 
   Revenue numbers and learnings from running a Japanese candy subscription box.
 
-### Events
+### 实时
 
 - **[MicroConf](http://www.microconf.com/)** [$]
 
-  "The worlds biggest conference for the worlds smallest self-funded software companies". It has two editions, one more focused to starters, and another one focused on growth. Both last two days. Las Vegas. Run by [Rob Walling](https://twitter.com/robwalling) and [Mike Taber](https://twitter.com/SingleFounder).
+  "The worlds biggest conference for the worlds smallest self-funded software companies". 它有两个版本，一个面向初学者，一个面向增长，
+  由 [Rob Walling](https://twitter.com/robwalling) 和 [Mike Taber](https://twitter.com/SingleFounder) 创办。
   
 - **[MicroConf Europe](http://www.microconfeurope.com/)** [$]
 
-  MicroConf's European edition. Barcelona. Run by [Rob Walling](https://twitter.com/robwalling) and [Mike Taber](https://twitter.com/SingleFounder).
+  MicroConf 的欧洲版本，由 [Rob Walling](https://twitter.com/robwalling) 和 [Mike Taber](https://twitter.com/SingleFounder) 创办。
   
 - **[BaconBizConf](http://baconbiz.com/)** [$]
 
-  "An alliance for B2B bootstrappers". Philadelphia. By [Amy Hoy](https://twitter.com/amyhoy) and [Alex Hillman](https://twitter.com/alexhillman).
+  在费城举办的关于 B2B bootstrappers 联盟的会议，由 [Amy Hoy](https://twitter.com/amyhoy) 和 [Alex Hillman](https://twitter.com/alexhillman) 创办。
   
 - **[StartupSchool](https://www.startupschool.org/)**
 
-  Free event organized by seed accelerator [YCombinator](http://www.ycombinator.com/). You have to be a bit lucky to get in. Also, this suggestion goes a little bit against the idea of "bootstrapped" but YCombinator has a lot of good resources for us indie hackers!
+  Free event organized by seed accelerator . 
+  由 [YCombinator](http://www.ycombinator.com/) 组织的免费活动，你必须有些幸运才能加入，YCombinator 为你提供了很多资源。
   
 ##### Not specific to indie founders:
 
 - **[Business of Software](http://businessofsoftware.org/)** [$]
 
-  "Business of Software is not based in Silicon Valley for good reason. It is about building long term, sustainable software businesses. …a thoughtful conference, where people come to listen and learn, not self promote and shout". Boston. [Team behind BoS](http://thebln.com/team/).
+  它是关于可建立长期，可持续的软件业务，在波士顿，这是一个很棒的会议，很多人都过来参加学习。[Team behind BoS](http://thebln.com/team/).
   
 - **[Business of Software Europe](http://businessofsoftware.eu/)** [$]
 
-  BoS European edition. London. [Team behind BoS](http://thebln.com/team/).
+  Business of Software 欧洲版在伦敦. [Team behind BoS](http://thebln.com/team/).
 
 - **[B2B Rocks](https://b2brocks.co/)** [$]
 
-  "Leading conferences for B2B and SaaS startups". Popular business model for indie devs. Paris. Sydney.
+  这是关于 B2B 和 SaaS 业务的会议，探索一些流行的商业模式，举办地：巴黎，悉尼。
 
 - **[PeersConf](http://peersconf.com/)** [$]
-
-  "A conference for those who make the web, and make it their business". Seattle (changes every year). By [Jessica D'Amico](https://twitter.com/justjessdc).
+  
+  在西雅图举办的面向 Web 业务的会议，由 [Jessica D'Amico](https://twitter.com/justjessdc) 创办。
 
 ### 书籍
 
