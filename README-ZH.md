@@ -321,7 +321,6 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
   
 - **[StartupSchool](https://www.startupschool.org/)**
 
-  Free event organized by seed accelerator . 
   由 [YCombinator](http://www.ycombinator.com/) 组织的免费活动，你必须有些幸运才能加入，YCombinator 为你提供了很多资源。
   
 ##### Not specific to indie founders:
