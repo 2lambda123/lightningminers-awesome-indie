@@ -34,11 +34,12 @@ by **[@mezod](https://twitter.com/mezood)** (Doing things every day with **[ever
 - [Case Studies](#case-studies)
 - [Events](#events)
 - [书籍](#书籍)
-- [Tools](#tools)
-- [Courses](#courses)
-- [Specific Topics](#specific-topics)
+- [工具](#工具)
+- [课程](#课程)
+- [更多议题](#更多议题)
 
 ### 社区
+
 - **[IndieHackers](https://www.indiehackers.com/businesses)**
 
   从已经盈利的业务和项目中学习，IndieHackers 是一个独立项目，一些已经小有成就的开发者会在这里分享他们的经验。[Courtland Allen](https://twitter.com/csallen?lang=ca) has been very transparent about [how he built it](https://www.indiehackers.com/blog). 相信这些信息能让你有所成长。
@@ -84,6 +85,7 @@ by **[@mezod](https://twitter.com/mezood)** (Doing things every day with **[ever
 <!-- - lobsters -->
 
 ### Newsletters
+
 - **[Bootstrappers.io](https://bootstrappers.io/)**
 
   Weekly digest of the best user-submitted articles featured on bootstrapped.io. Curated by [Darren Stuart](https://twitter.com/ninjamonk).
@@ -360,65 +362,65 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 - **[Founders at Work](https://www.amazon.com/Founders-Work-Stories-Startups-Early-ebook/dp/B009IXMK4O/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1493985002&sr=1-1&keywords=founders+at+work)** [$] by [Jessica Livingston](https://twitter.com/jesslivingston).
 - **[SideProject Book](http://www.sideprojectbook.com/)** - [$49].
 
-### Tools
+### 工具
 
 - **[The SaaS Bootstrapper Startup Resources](http://thesaasbootstrapper.com/saas-startup-resources/)**
 
-  A collection of resources for bootstrappers put together by [Mac Martine](http://macmartine.com/). 
+  SaaS Bootstrap资源集合。由[Mac Martine](http://macmartine.com/) 整理。
 
 - **[free-for-dev](https://github.com/ripienaar/free-for-dev)**
 
-  A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev. Very useful for bootstrappers to keep initial costs low ;) By [R. I. Pienaar](https://github.com/ripienaar/).
+  一组SaaS、PaaS和IaaS工具，提供免费的devops和infradev服务，可以降低Bootstrap开发的起步成本。由[R. I. Pienaar](https://github.com/ripienaar/)整理。
   
 - **[Stack-on-a-budget](https://github.com/255kb/stack-on-a-budget)**
 
-  Another list of SaaS, PaaS, and Iaas offerings that have free tiers for developers on a budget. Very useful for exploring ideas and building out proof of concept. By [Guillaume (256kb)](https://github.com/255kb/).
+  另一组SaaS、PaaS和Iaas工具，为预算有限的开发者提供免费服务，对探索和验证新的想法和概念非常有用。由[Guillaume (256kb)](https://github.com/255kb/)整理。
 
 - **[Tools Of The Trade](https://github.com/cjbarber/ToolsOfTheTrade)**
 
-  Spectacular list of categorized tools for developers resulting from HackerNews threads. By [Chris Barber](https://twitter.com/chrisbarber) and [Craig Davison](https://twitter.com/davisonio).
+  来自HackerNews的一组很好的开发者工具分类列表。由[Chris Barber](https://twitter.com/chrisbarber)和[Craig Davison](https://twitter.com/davisonio)整理。
 
 - **[awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted)**
 
-  "This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers." Lots of salvageable software :P by [Edward D](https://github.com/Kickball).
+  “这是一组免费的可在本地服务器上使用的软件网络服务，自服务(selfhosting)就是使用本地服务器(代替租用SaaS)管理应用”。由[Edward D](https://github.com/Kickball)整理。
 
-### Courses
+### 课程
 
-Again, I'm not quite fond of listing [$] products made by indie developers targeting indie developers, especially because I haven't tried them myself, but due to several references I assume they are probably worth it and some people might find value in learning about them.
+重申一下，我其实不太想列出由独立开发者提供的、面向独立开发者的产品，因为我也没有逐一亲自使用过这些产品。但是根据一些参考推荐，我认为下面的这几个应该是比较有学习价值的：
 
 - **[Marketing for Developers](https://devmarketing.xyz/)** [$]
 
-  "An online marketing course for software developers & product people". Read some reviews [here](https://www.producthunt.com/posts/marketing-for-developers). By [Justin Jackson](https://twitter.com/mijustin).
+  一个面向软件开发者和产品人员的在线市场课程。课程评价可以看[这里](https://www.producthunt.com/posts/marketing-for-developers)。由[Justin Jackson](https://twitter.com/mijustin)提供。
   
 - **[30x500 Academy](https://30x500.com/academy/)** [$]
 
-  "Pick your customer. Learn how they tick. Learn what they need, want, and are ready to buy." Find reviews [here](http://codefol.io/posts/30x500-why)(good), [here](https://news.ycombinator.com/item?id=8119354)(bad) and [here](https://www.quora.com/How-do-30x500-and-How-To-Make-Your-First-Dollar-compare). By [Amy Hoy](https://twitter.com/amyhoy) and [Alex Hillman](https://twitter.com/alexhillman). 
+  “选择你的客户。分析他们怎么做选择、需要什么、想要什么以及准备买什么”。可以看课程评价：[好评](http://codefol.io/posts/30x500-why)、[差评](https://news.ycombinator.com/item?id=8119354)还有[这个](https://www.quora.com/How-do-30x500-and-How-To-Make-Your-First-Dollar-compare)。由[Amy Hoy](https://twitter.com/amyhoy)和[Alex Hillman](https://twitter.com/alexhillman)提供。 
 
 <!-- https://www.appsumo.com/how-to-make-your-first-dollar/ -->
 <!-- https://fizzle.co/ -->
 
-## Specific topics
+## 更多议题
 
-In the future, I'd like to have a list of resources for more specific topics or FAQs such as: 
+后面我打算针对更多相关议题或者常见问题给出资源，比如： 
 
- - 'how to get ideas'
+ - 如何取得创意
  <!-- http://www.oppsdaily.com/ -->
  <!-- https://nugget.one/daily -->
  <!-- https://www.oppslist.com/ -->
- - 'how to find betatesters'
- - 'how to find my first 100 users'
+ - 如何找到测试者
+ - 如何找到我的第一个100个用户
  <!-- https://promotehour.com/ -->
  <!-- awesome places to post your startup -->
- - 'how to validate my idea'
+ - 如何验证我的创意
  <!-- https://training.kalzumeus.com/newsletters/archive/validating_product_ideas -->
- - 'where to advertise my project'
- - 'what paid ads work better'
- - 'i've got 100 users, how to grow'
- - 'how do i deal with support'
- - 'types of digital products'
- - 'legal aspects'
+ - 去哪里推广我的项目
+ - 什么付费广告更有用
+ - 有了100个用户之后怎么增长
+ - 如何处理赞助
+ - 数字产品的类型
+ - 法律问题
  <!-- https://termsfeed.com -->
- - 'typical mistakes'
+ - 典型错误
  <!-- https://www.47hats.com/2017/05/10/startup-mistake-1-anonymous-startup/ -->
  
-Help me make a proper list of specific topics!
+欢迎提议，让我可以给出一个更合理的议题列表！
