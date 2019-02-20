@@ -27,8 +27,8 @@ by **[@mezod](https://twitter.com/mezood)** (Doing things every day with **[ever
 
 - [社区](#communities)
 - [Newsletters](#newsletters)
-- [Podcasts](#podcasts)
-- [Talks](#talks)
+- [播客](#播客)
+- [演讲](#%E6%BC%94%E8%AE%B2)
 - [Posts](#posts)
 - [Blogs](#blogs)
 - [Case Studies](#case-studies)
@@ -109,79 +109,79 @@ by **[@mezod](https://twitter.com/mezood)** (Doing things every day with **[ever
   Weekly roundups of stories, guides and resources to help you grow your internet business. Every Friday. Free.
   Curated by [Nicolas de Thoré](https://twitter.com/ndethore)
 
-### Podcasts
+### 播客
 
 - **[Startups for the rest of us](http://www.startupsfortherestofus.com/)**
 
-  Started in 2010 by [Rob Walling](https://twitter.com/robwalling) and [Mike Taber](https://twitter.com/SingleFounder) have covered almost everything there is to cover in micropreneurship. [Here](http://www.startupsfortherestofus.com/greatest-hits) you can find a 'best of' selection of their podcast.
+  由 [Rob Walling](https://twitter.com/robwalling) 和 [Mike Taber](https://twitter.com/SingleFounder) 在 2010 年发起的这个项目几乎涵盖了小微创业团队所需要的一切。在[这里](http://www.startupsfortherestofus.com/greatest-hits)你可以找到他们所有播客中点击量最多的那些。
 
 - **[Product People](http://www.productpeople.tv/)**
 
-  A podcast focused on great products and the people who make them. Since 2012. By [Justin Jackson](https://twitter.com/mijustin).
+  一个专注于伟大产品与其创始团队的播客，由 [Justin Jackson](https://twitter.com/mijustin) 在 2012 年创立。
 
 - **[bootstrapped.fm](http://bootstrapped.fm/)**
 
-  Several different topics around bootstrapping online businesses. Started in 2013 by [Ian Landsman](https://twitter.com/ianlandsman) and [Andrey Butov](https://twitter.com/andrey_butov).
+  这个播客主要是关于在线创业的各种主题，由 [Ian Landsman](https://twitter.com/ianlandsman) 和 [Andrey Butov](https://twitter.com/andrey_butov) 创办于 2013 年。
   
 - **[Bootstrapped Web](http://bootstrappedweb.com)**
 
-  "To share the lessons we learn by doing, and learn from the things that others are doing, to help us all get ahead as we bootstrap our businesses online." Since 2013 by [Brian Casel](https://twitter.com/CasJam) and [Jordan Gal](https://twitter.com/JordanGal).
+  “通过分享我们和其他人的实践经验，来帮助我们在启动线上创业的时候领先一步。”由 [Brian Casel](https://twitter.com/CasJam) 和 [Jordan Gal](https://twitter.com/JordanGal) 创办于 2013 年。
   
 - **[Entreprogrammers](http://entreprogrammers.com/)**
 
-  A podcast for developreneurs. Run by [Josh Earl](https://twitter.com/josh_earl), [John Sonmez](https://twitter.com/jsonmez), [Derick Bailey](https://twitter.com/derickbailey) and [Charles Max Wood](https://twitter.com/cmaxw) since 2014.
+  为技术型创业者而创建的播客，由 [Josh Earl](https://twitter.com/josh_earl), [John Sonmez](https://twitter.com/jsonmez), [Derick Bailey](https://twitter.com/derickbailey) 和 [Charles Max Wood](https://twitter.com/cmaxw) 创办于 2014 年。
 
 - **[IndieHackers](https://www.indiehackers.com/businesses)**
 
-  Podcast where [Courtland Allen](https://twitter.com/csallen?lang=ca) interviews some of the most successful indiehackers featured on the site. Started in early 2017 already has 12 episodes with great content and very carefully crafted related notes and links.
+  [Courtland Allen](https://twitter.com/csallen?lang=ca) 在这个播客上记录了与一些最成功的独立开发者的访谈。这个播客开始于 2017 年初，到目前为止已经有 12 个内容、笔记、相关链接都十分丰富系列了。
   
 - **[The SaaS Bootstrapper](http://thesaasbootstrapper.com/)**
 
-  Interviews with entrepreneurs and bootstrappers about bootstrapping, SaaS, growth, marketing, and other startup topics. By [Mac Martine](http://macmartine.com/).
+  围绕引导、SaaS、成长、市场和其他创业相关的话题，与创业者和引导者展开的访谈。播客作者是 [Mac Martine](http://macmartine.com/)。
   
 - **[Smart Passive Income](https://www.smartpassiveincome.com/podcasts/)**
 
-  Not really specific to developers but with great content on the several types of products to make a living online. By [Pat Flynn](https://twitter.com/patflynn).
+  这个播客不是专门面向开发者的，但是播客包含了非常多网赚项目的优质内容。播客作者为 [Pat Flynn](https://twitter.com/patflynn)。
 
 - **[Giant Robots](http://giantrobots.fm/)**
 
-  [Ben Orenstein](http://www.benorenstein.com/) (former growth/product lead at Thoughtbot) and [Derrick Reimer](https://twitter.com/derrickreimer) (co-founder of Drip) talk weekly about growing their SaaS businesses.
+  [Ben Orenstein](http://www.benorenstein.com/) (Thoughtbot 前产品经理) 和 [Derrick Reimer](https://twitter.com/derrickreimer) (Drip 联合创始人) 关于发展他们的 SaaS 业务的周会纪要。
   
 - **[Mixergy](https://itunes.apple.com/us/podcast/mixergy-startup-stories-1000-entrepreneurs-businesses/id348690336?mt=2)**
 
-  Startup Interview podcast hosted by [Andrew Warner](https://twitter.com/andrewwarner), who made $1 million a month from an online greeting cards business.
+  由 [Andrew Warner](https://twitter.com/andrewwarner) 主持的创业访谈播客，这个牛人从他的在线贺卡业务中赚了 100 万。
   
 - **[How I Built This](https://www.npr.org/podcasts/510313/how-i-built-this)**
 
-  A podcast hosted by [Guy Raz](https://twitter.com/guyraz) where startup founders tell their story.
+  由 [Guy Raz](https://twitter.com/guyraz) 主持的播客，在这里创业者们分享他们的故事。
     
-### Talks
+### 演讲
 
 - **[David Heinemeier Hansson at Startup School 08](https://www.youtube.com/watch?v=0CDXJ6bMkMY)** by [David Heinemeier Hansson](https://twitter.com/dhh)
 
-  Bootstrapping as the better alternative to VC funded startups.
+  引导作为VC资助初创公司的更好选择。
   
 - **[Tyler Tringas on Storemapper and MicroSaaS](https://www.youtube.com/watch?v=i3d1asTrWUQ)** by [Tyler Tringas](https://twitter.com/tylertringas)
 
-  15 minutes filled with a lot of valuable information and insights where Tyler presents the concept of Micro-SaaS and tells us his story.
+  Tyler 分享了 Micro-SaaS 和他的故事，这次分享信息量巨大，时长 15 分钟。
   
 - **[Bootstrapping Side Projects To Profit by Pieter Levels](https://www.youtube.com/watch?v=m3nb_Qj3mRA)** by [Pieter Levels](https://twitter.com/levelsio)
 
-  Probably one of the most known indie hackers of the last couple of years talks about how to turn our sideprojects into profitable businesses. Very straight to the point, Pieter always provides a lot of insightful thoughts. By the way, don't get fooled by his lifestyle, his success is 500% work. 
+  一位德高望重的独立开发者分享了他将个人项目转换成能赚钱的项目的过程。此次分享切入主题，Pieter 总是能提供大量有见地的想法。另外，不要被他的生活方式所迷惑，他的成功建立在 500% 的工作量上。
   
 - **[Marketing for Minorities](http://businessofsoftware.org/2011/03/hello-ladies-patrick-mckenzie-at-business-of-software-2010-marketing-to-minorities/)** by [Patrick McKenzie](https://twitter.com/patio11?lang=ca)
 
-  Lightning 7 minute talk by one of the most respected indie developers. The point Patrick is trying to make, is that solo developers can target way smaller and niche markets which might have low competition and be very profitable from a solo business point of view.
+  来自同样德高望重的独立开发者 Patrick 7 分钟的快速分享，他想表达的观点是----瞄准小的目标和那些竞争比较小同时个人利润比较可观的市场。
   
 - **[Talking about CoderPad and business at Dropbox](https://www.youtube.com/watch?v=J8UwcyYT3z0)** by [Vincent Woo](https://twitter.com/fulligin?lang=ca)
 
-  Talk on building a successful small solo business.
+  关于构建一个小而成功的项目的演讲。
   
 - **[Paul Buchheit at Startup School 08](https://www.youtube.com/watch?v=EZxP0i9ah8E)**
 
-  In this classic talk, AdSense/GMail/like button inventor explains how to listen to your users and why you should be critical of startup advice.
+  在此次经典的演讲中，AdSense/GMail/like button 的发明者说明了如何去了解用户的反馈以及为什么要批判式对待创业路上的建议。
   
-##### Other
+##### 其它内容
 
 - **[Talks from the MicroConf](https://vimeo.com/user12790628/videos)**
 - **[Talks from the BaconBizConf](http://baconbiz.com/)**
