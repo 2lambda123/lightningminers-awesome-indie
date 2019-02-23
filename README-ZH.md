@@ -111,7 +111,7 @@ by **[@mezod](https://twitter.com/mezood)** (Doing things every day with **[ever
   
   每周五免费提供汇总的指南和资源，以帮助个人发展独立的互联网业务。由 [Nicolas de Thoré](https://twitter.com/ndethore) 发起。
 
-### 播客
+### Podcasts
 
 - **[Startups for the rest of us](http://www.startupsfortherestofus.com/)**
 
