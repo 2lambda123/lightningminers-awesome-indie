@@ -2,7 +2,7 @@
 
 Language: [English](README.md) | [简体中文](README-ZH.md)
 
-这是一份可以帮助开发者赚钱的资源收集项目。
+这是一份可以帮助开发者触发灵感，创建可盈利副业的资源收集项目。
 
 一般来说开发者自己尝试从代码中赚钱，这其实比较困难。我将尝试策划一系列的资源，以帮助对此有兴趣朋友从中观察并学习到他们是如何赚钱的，这些侧面的例子，将引导你对自己的项目进行创新或商业化。
 
@@ -25,8 +25,8 @@ by **[@mezod](https://twitter.com/mezood)** (Doing things every day with **[ever
 
 ## 内容
 
-- [社区](#communities)
-- [Newsletters](#newsletters)
+- [社区](#社区)
+- [简讯](#简讯)
 - [播客](#播客)
 - [演讲](#%E6%BC%94%E8%AE%B2)
 - [Posts](#posts)
@@ -111,7 +111,7 @@ by **[@mezod](https://twitter.com/mezood)** (Doing things every day with **[ever
   
   每周五免费提供汇总的指南和资源，以帮助个人发展独立的互联网业务。由 [Nicolas de Thoré](https://twitter.com/ndethore) 发起。
 
-### Podcasts
+### 播客
 
 - **[Startups for the rest of us](http://www.startupsfortherestofus.com/)**
 
