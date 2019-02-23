@@ -42,74 +42,74 @@ by **[@mezod](https://twitter.com/mezood)** (Doing things every day with **[ever
 
 - **[IndieHackers](https://www.indiehackers.com/businesses)**
 
-  从已经盈利的业务和项目中学习，IndieHackers 是一个独立项目，一些已经小有成就的开发者会在这里分享他们的经验。[Courtland Allen](https://twitter.com/csallen?lang=ca) has been very transparent about [how he built it](https://www.indiehackers.com/blog). 相信这些信息能让你有所成长。
+  IndieHackers 旨在从已经盈利的业务和业余项目中学习。它可能是由兴趣创造独立收入浪潮的催化剂(这里"独立"意味着企业资金来自客户，而不是风投和雇主)。一些已经小有成就的开发者会在这里分享他们的经验。IndieHackers 一直特别有趣，因为它本身就是一个独立项目。[Courtland Allen](https://twitter.com/csallen?lang=ca) 毫无保留的分享了[如何创建的这个项目](https://www.indiehackers.com/blog)的过程。从最新的消息可以看出这个论坛/社区将会继续成长。
 
 - **[Barnacl.es](https://barnacl.es/)**
 
-  News for bootstrappers, not VC hackers. Hacker-News like forum. [Peter Bhat Harkins](https://twitter.com/pushcx) started it in early 2016 and I've found it of great value ever since. Also, it runs on [great software](https://github.com/jcs/lobsters), which is always a thing to appreciate!
+  给 bootstrappers 看的新闻，而不是 VC 或 黑客。具有 Hacker-News 风格的社区。   [Peter Bhat Harkins](https://twitter.com/pushcx)在 2016 年早期启动，从那时起我就发现了它巨大的价值。而且运行它的软件也相当强大，这也是值得钦佩地方！
 
 - **[bootstrapped.fm Forum](http://discuss.bootstrapped.fm/)**
 
-  A forum for bootstrappers. Started in 2013 by [Ian Landsman](https://twitter.com/ianlandsman) and [Andrey Butov](https://twitter.com/andrey_butov) as a continuation to the now defunct [The Business of Software](http://discuss.joelonsoftware.com/default.asp?biz).
+  bootstrappers 的论坛。由 [Ian Landsman](https://twitter.com/ianlandsman) 和 [Andrey Butov](https://twitter.com/andrey_butov) 在 2013 年启动，延续了目前已经停运的 [The Business of Software](http://discuss.joelonsoftware.com/default.asp?biz)。
   
-- **[##passiveincome](http://webchat.freenode.net/?channels=%23%23passiveincome&uio=d4)** on freenode 
+- freenode 上的 **[passiveincome](http://webchat.freenode.net/?channels=%23%23passiveincome&uio=d4)**
 
-  [Matthew Mallard](https://news.ycombinator.com/user?id=matbram) created this channel on the freenode IRC network in early 2017 and it has been pretty active and growing ever since.
+  [Matthew Mallard](https://news.ycombinator.com/user?id=matbram) 2017 年初在 freenode IRC 网络上创建了这个频道，目前已经变得相当活跃和壮大。
   
 - **[HackerNews](https://news.ycombinator.com/)**
 
-  News for hackers, mostly technology and entrepreneurship. Not specific to indie devs but a must for everyone interested in computer science, creating products and making money. A lot of indie devs lurking around. Started by [Paul Graham](https://twitter.com/paulg) and maintained by the seed accelerator YCombinator.
+  给黑客看的新闻，大部分都是技术和创业相关的。没有特定的独立开发者，但对于每个对计算机科学、创造产品和挣钱感兴趣的人来说都是必须的。很多独立开发者隐藏在其中。由 [Paul Graham](https://twitter.com/paulg) 发起。
   
 - **[ProductPeople.club](https://productpeople.club/)** [$]
 
-  Exclusive community for indie makers run by [Justin Jackson](https://twitter.com/mijustin). Currently there's a waitlist. Cost is $249 for lifetime access. I'm not a member so I can't personally endorse it. Generally, I'm skeptic on products targeting indie makers but I still found it relevant to add this specific product because of cross references. Some people might find it interesting. Feel free to reference to reviews!
+  只有个人开发者的社区，由 [Justin Jackson](https://twitter.com/mijustin) 运营。目前需要排队。终身会员要 $249。我不是会员，所以我无法以个人名义支持它。一般来说，我对针对独立开发者的产品持怀疑态度，但我看了很多参考后仍然添加了这个产品。有些人会觉得很有意思。
   
 - **[FounderCafe](https://www.foundercafe.com/)** [$]
 
-  FounderCafe is an invite-only, online community of entrepreneurs helping each other succeed run by [Rob Walling](https://twitter.com/robwalling) and [Mike Taber](https://twitter.com/SingleFounder). $99 every 3 months. I'm not a member so I can't personally endorse it.
+  FounderCafe 是一个邀请制的企业家在线社区，帮助彼此成功，由 [Rob Walling](https://twitter.com/robwalling)和 [Mike Taber](https://twitter.com/SingleFounder) 运营。每 3 个月 $99，我不是会员所以我无法自己评价。
   
 - **[Nugget.one](https://nugget.one/)** [$]
 
-  Nugget.one focuses on helping software developers launch successful side projects. Being part of the community gives access to case studios, bi-weekly webinars and live mentoring. Run by [Justin Vincent](https://twitter.com/justinvincent). $19.99 per month.
+  Nugget.one 专注于帮助软件开发者推出成功的 side project。成为社区的会员可以访问案例研究室、每两周一次的在线讲座和现场指导。由 [Justin Vincent](https://twitter.com/justinvincent) 运营。会员每个月 $19.99 。
 
-##### Other
-- **[r/Entrepreneur](https://www.reddit.com/r/Entrepreneur/)** - Not exclusive to indies/bootstrappers but still with relevant content for us.
-- **[Bootstrapped Slack](https://bootstrapped.slack.com)** ([invite here](http://www.bootstrappedchat.com/) invite link currently dead, working on it!) - Slack that probably originated from the bootstrapped.fm forum. Not really moderated.
-- **[r/SideProject](https://www.reddit.com/r/SideProject/)** - Quite active
-- **[Sideprojectxyz](https://sideprojectxyz.slack.com)** ([invite here](http://sideproject.xyz/)) - Slack community for people working on their sideprojects.
-- **[r/IndieBiz](https://www.reddit.com/r/indiebiz/)** - A subreddit for small and independent businesses.
+#### 其它
+
+- **[r/Entrepreneur](https://www.reddit.com/r/Entrepreneur/)** - 不是专门为独立开发者/创业者服务的，但仍然有一些与我们相关的内容。
+- **[Bootstrapped Slack](https://bootstrapped.slack.com)** ([邀请链接](http://www.bootstrappedchat.com/) 邀请链接当前失效了，正在修复！) - 大概是起源自 bootstrapped.fm 论坛的 Slack。不是很温和。
+- **[r/SideProject](https://www.reddit.com/r/SideProject/)** -  相当活跃
+- **[Sideprojectxyz](https://sideprojectxyz.slack.com)** ([邀请链接](http://sideproject.xyz/)) - 为 side project 工作的人的 Slack 社区。
+- **[r/IndieBiz](https://www.reddit.com/r/indiebiz/)** - 小型和独立企业相关的 reddit 看板。
 - **[/r/EntrepreneurRideAlong](https://www.reddit.com/r/EntrepreneurRideAlong/)**
-- **[Work In Progress](https://wip.chat)** [$] - A public todo list for accountability, and a [Telegram chat](https://t.me/wipchat) of 800+ makers. Freemium.
-- **[r/Startups](https://www.reddit.com/r/startups/)** - Not exclusive to indies/bootstrappers but still with relevant content for us.
+- **[Work In Progress](https://wip.chat)** [$] - 一个采用免费增值模式（Freemium）的包含一个任务分配的公共 todolist 和 一个聚集了 800+ 开发者的[Telegram 群组](https://t.me/wipchat) 。
+- **[r/Startups](https://www.reddit.com/r/startups/)** - 不只是 indies/bootstrappers 独有的，r/Startups 也为我们提供创业相关内容。
 
 <!-- - lobsters -->
 
-### Newsletters
+### 简讯
 
 - **[Bootstrappers.io](https://bootstrappers.io/)**
 
   Weekly digest of the best user-submitted articles featured on bootstrapped.io. Curated by [Darren Stuart](https://twitter.com/ninjamonk).
+  每周收录 bootstrapped.io 上的最受欢迎的文章。由 [Darren Stuart](https://twitter.com/ninjamonk) 发起。
 
 - **[IndieHackers](https://www.indiehackers.com/businesses)**
 
-  Newsletter containing the newest interviews of the site and also the best threads from the forum. Normally ships on Thursdays. By [Courtland Allen](https://twitter.com/csallen?lang=ca).
-
+  该网站的最新访谈以及论坛的最佳主题集合。通常在周四更新。由 [考特兰艾伦]([Courtland Allen](https://twitter.com/csallen?lang=ca)) 创建。
 - **[Indie](https://justinjackson.ca/indie/)**
 
-  Stories, lessons, and inspiration for independent makers. By [Justin Jackson](https://twitter.com/mijustin).
+  独立制造商的故事，课程和灵感。由 [Justin Jackson](https://twitter.com/mijustin) 发起。
   
 - **[The SaaS Bootstrapper](http://thesaasbootstrapper.com/resources/)**
 
-  Content about bootstrapping, SaaS, growth, marketing, and other startup topics curated by [Mac Martine](http://macmartine.com/).
+  内容主题包括 bootstrapping，SaaS，增长，营销和其他等，由 [Mac Martine](http://macmartine.com/) 发起。
   
 - **[Hackerpreneur](https://hackerpreneur.co/)**
 
-  For indie entrepreneurs & makers who live and work on their own terms. Every Friday, you’ll get hand-picked startup resources & essays exploring the future of work in the exponential age. By [Marc Eglon](https://twitter.com/MarcEglon).
+  适合独立生活和工作的独立企业家和制造商。每个星期五，您都会获得精心挑选的创业资源和文章，探索指数时代的未来工作。由 [Marc Eglon](https://twitter.com/MarcEglon) 发起。
   
 - **[Bootstrap Money](https://bootstrap.money)**
   
-  Weekly roundups of stories, guides and resources to help you grow your internet business. Every Friday. Free.
-  Curated by [Nicolas de Thoré](https://twitter.com/ndethore)
+  每周五免费提供汇总的指南和资源，以帮助个人发展独立的互联网业务。由 [Nicolas de Thoré](https://twitter.com/ndethore) 发起。
 
 ### 播客
 
