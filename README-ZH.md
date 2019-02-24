@@ -2,7 +2,7 @@
 
 Language: [English](README.md) | [简体中文](README-ZH.md)
 
-这是一份可以帮助开发者赚钱的资源收集项目。
+这是一份可以帮助开发者触发灵感，创建可盈利副业的资源收集项目。
 
 一般来说开发者自己尝试从代码中赚钱，这其实比较困难。我将尝试策划一系列的资源，以帮助对此有兴趣朋友从中观察并学习到他们是如何赚钱的，这些侧面的例子，将引导你对自己的项目进行创新或商业化。
 
@@ -25,89 +25,91 @@ by **[@mezod](https://twitter.com/mezood)** (Doing things every day with **[ever
 
 ## 内容
 
-- [社区](#communities)
-- [Newsletters](#newsletters)
+- [社区](#社区)
+- [简讯](#简讯)
 - [播客](#播客)
 - [演讲](#%E6%BC%94%E8%AE%B2)
 - [Posts](#posts)
 - [Blogs](#blogs)
 - [Case Studies](#case-studies)
-- [Events](#events)
-- [Books](#books)
-- [Tools](#tools)
-- [Courses](#courses)
-- [Specific Topics](#specific-topics)
+- [实时](#实时)
+- [书籍](#书籍)
+- [工具](#工具)
+- [课程](#课程)
+- [更多议题](#更多议题)
 
 ### 社区
+
 - **[IndieHackers](https://www.indiehackers.com/businesses)**
 
-  从已经盈利的业务和项目中学习，IndieHackers 是一个独立项目，一些已经小有成就的开发者会在这里分享他们的经验。[Courtland Allen](https://twitter.com/csallen?lang=ca) has been very transparent about [how he built it](https://www.indiehackers.com/blog). 相信这些信息能让你有所成长。
+  IndieHackers 旨在从已经盈利的业务和业余项目中学习。它可能是由兴趣创造独立收入浪潮的催化剂(这里"独立"意味着企业资金来自客户，而不是风投和雇主)。一些已经小有成就的开发者会在这里分享他们的经验。IndieHackers 一直特别有趣，因为它本身就是一个独立项目。[Courtland Allen](https://twitter.com/csallen?lang=ca) 毫无保留的分享了[如何创建的这个项目](https://www.indiehackers.com/blog)的过程。从最新的消息可以看出这个论坛/社区将会继续成长。
 
 - **[Barnacl.es](https://barnacl.es/)**
 
-  News for bootstrappers, not VC hackers. Hacker-News like forum. [Peter Bhat Harkins](https://twitter.com/pushcx) started it in early 2016 and I've found it of great value ever since. Also, it runs on [great software](https://github.com/jcs/lobsters), which is always a thing to appreciate!
+  给 bootstrappers 看的新闻，而不是 VC 或 黑客。具有 Hacker-News 风格的社区。   [Peter Bhat Harkins](https://twitter.com/pushcx)在 2016 年早期启动，从那时起我就发现了它巨大的价值。而且运行它的软件也相当强大，这也是值得钦佩地方！
 
 - **[bootstrapped.fm Forum](http://discuss.bootstrapped.fm/)**
 
-  A forum for bootstrappers. Started in 2013 by [Ian Landsman](https://twitter.com/ianlandsman) and [Andrey Butov](https://twitter.com/andrey_butov) as a continuation to the now defunct [The Business of Software](http://discuss.joelonsoftware.com/default.asp?biz).
+  bootstrappers 的论坛。由 [Ian Landsman](https://twitter.com/ianlandsman) 和 [Andrey Butov](https://twitter.com/andrey_butov) 在 2013 年启动，延续了目前已经停运的 [The Business of Software](http://discuss.joelonsoftware.com/default.asp?biz)。
   
-- **[##passiveincome](http://webchat.freenode.net/?channels=%23%23passiveincome&uio=d4)** on freenode 
+- freenode 上的 **[passiveincome](http://webchat.freenode.net/?channels=%23%23passiveincome&uio=d4)**
 
-  [Matthew Mallard](https://news.ycombinator.com/user?id=matbram) created this channel on the freenode IRC network in early 2017 and it has been pretty active and growing ever since.
+  [Matthew Mallard](https://news.ycombinator.com/user?id=matbram) 2017 年初在 freenode IRC 网络上创建了这个频道，目前已经变得相当活跃和壮大。
   
 - **[HackerNews](https://news.ycombinator.com/)**
 
-  News for hackers, mostly technology and entrepreneurship. Not specific to indie devs but a must for everyone interested in computer science, creating products and making money. A lot of indie devs lurking around. Started by [Paul Graham](https://twitter.com/paulg) and maintained by the seed accelerator YCombinator.
+  给黑客看的新闻，大部分都是技术和创业相关的。没有特定的独立开发者，但对于每个对计算机科学、创造产品和挣钱感兴趣的人来说都是必须的。很多独立开发者隐藏在其中。由 [Paul Graham](https://twitter.com/paulg) 发起。
   
 - **[ProductPeople.club](https://productpeople.club/)** [$]
 
-  Exclusive community for indie makers run by [Justin Jackson](https://twitter.com/mijustin). Currently there's a waitlist. Cost is $249 for lifetime access. I'm not a member so I can't personally endorse it. Generally, I'm skeptic on products targeting indie makers but I still found it relevant to add this specific product because of cross references. Some people might find it interesting. Feel free to reference to reviews!
+  只有个人开发者的社区，由 [Justin Jackson](https://twitter.com/mijustin) 运营。目前需要排队。终身会员要 $249。我不是会员，所以我无法以个人名义支持它。一般来说，我对针对独立开发者的产品持怀疑态度，但我看了很多参考后仍然添加了这个产品。有些人会觉得很有意思。
   
 - **[FounderCafe](https://www.foundercafe.com/)** [$]
 
-  FounderCafe is an invite-only, online community of entrepreneurs helping each other succeed run by [Rob Walling](https://twitter.com/robwalling) and [Mike Taber](https://twitter.com/SingleFounder). $99 every 3 months. I'm not a member so I can't personally endorse it.
+  FounderCafe 是一个邀请制的企业家在线社区，帮助彼此成功，由 [Rob Walling](https://twitter.com/robwalling)和 [Mike Taber](https://twitter.com/SingleFounder) 运营。每 3 个月 $99，我不是会员所以我无法自己评价。
   
 - **[Nugget.one](https://nugget.one/)** [$]
 
-  Nugget.one focuses on helping software developers launch successful side projects. Being part of the community gives access to case studios, bi-weekly webinars and live mentoring. Run by [Justin Vincent](https://twitter.com/justinvincent). $19.99 per month.
+  Nugget.one 专注于帮助软件开发者推出成功的 side project。成为社区的会员可以访问案例研究室、每两周一次的在线讲座和现场指导。由 [Justin Vincent](https://twitter.com/justinvincent) 运营。会员每个月 $19.99 。
 
-##### Other
-- **[r/Entrepreneur](https://www.reddit.com/r/Entrepreneur/)** - Not exclusive to indies/bootstrappers but still with relevant content for us.
-- **[Bootstrapped Slack](https://bootstrapped.slack.com)** ([invite here](http://www.bootstrappedchat.com/) invite link currently dead, working on it!) - Slack that probably originated from the bootstrapped.fm forum. Not really moderated.
-- **[r/SideProject](https://www.reddit.com/r/SideProject/)** - Quite active
-- **[Sideprojectxyz](https://sideprojectxyz.slack.com)** ([invite here](http://sideproject.xyz/)) - Slack community for people working on their sideprojects.
-- **[r/IndieBiz](https://www.reddit.com/r/indiebiz/)** - A subreddit for small and independent businesses.
+#### 其它
+
+- **[r/Entrepreneur](https://www.reddit.com/r/Entrepreneur/)** - 不是专门为独立开发者/创业者服务的，但仍然有一些与我们相关的内容。
+- **[Bootstrapped Slack](https://bootstrapped.slack.com)** ([邀请链接](http://www.bootstrappedchat.com/) 邀请链接当前失效了，正在修复！) - 大概是起源自 bootstrapped.fm 论坛的 Slack。不是很温和。
+- **[r/SideProject](https://www.reddit.com/r/SideProject/)** -  相当活跃
+- **[Sideprojectxyz](https://sideprojectxyz.slack.com)** ([邀请链接](http://sideproject.xyz/)) - 为 side project 工作的人的 Slack 社区。
+- **[r/IndieBiz](https://www.reddit.com/r/indiebiz/)** - 小型和独立企业相关的 reddit 看板。
 - **[/r/EntrepreneurRideAlong](https://www.reddit.com/r/EntrepreneurRideAlong/)**
-- **[Work In Progress](https://wip.chat)** [$] - A public todo list for accountability, and a [Telegram chat](https://t.me/wipchat) of 800+ makers. Freemium.
-- **[r/Startups](https://www.reddit.com/r/startups/)** - Not exclusive to indies/bootstrappers but still with relevant content for us.
+- **[Work In Progress](https://wip.chat)** [$] - 一个采用免费增值模式（Freemium）的包含一个任务分配的公共 todolist 和 一个聚集了 800+ 开发者的[Telegram 群组](https://t.me/wipchat) 。
+- **[r/Startups](https://www.reddit.com/r/startups/)** - 不只是 indies/bootstrappers 独有的，r/Startups 也为我们提供创业相关内容。
 
 <!-- - lobsters -->
 
-### Newsletters
+### 简讯
+
 - **[Bootstrappers.io](https://bootstrappers.io/)**
 
   Weekly digest of the best user-submitted articles featured on bootstrapped.io. Curated by [Darren Stuart](https://twitter.com/ninjamonk).
+  每周收录 bootstrapped.io 上的最受欢迎的文章。由 [Darren Stuart](https://twitter.com/ninjamonk) 发起。
 
 - **[IndieHackers](https://www.indiehackers.com/businesses)**
 
-  Newsletter containing the newest interviews of the site and also the best threads from the forum. Normally ships on Thursdays. By [Courtland Allen](https://twitter.com/csallen?lang=ca).
-
+  该网站的最新访谈以及论坛的最佳主题集合。通常在周四更新。由 [考特兰艾伦]([Courtland Allen](https://twitter.com/csallen?lang=ca)) 创建。
 - **[Indie](https://justinjackson.ca/indie/)**
 
-  Stories, lessons, and inspiration for independent makers. By [Justin Jackson](https://twitter.com/mijustin).
+  独立制造商的故事，课程和灵感。由 [Justin Jackson](https://twitter.com/mijustin) 发起。
   
 - **[The SaaS Bootstrapper](http://thesaasbootstrapper.com/resources/)**
 
-  Content about bootstrapping, SaaS, growth, marketing, and other startup topics curated by [Mac Martine](http://macmartine.com/).
+  内容主题包括 bootstrapping，SaaS，增长，营销和其他等，由 [Mac Martine](http://macmartine.com/) 发起。
   
 - **[Hackerpreneur](https://hackerpreneur.co/)**
 
-  For indie entrepreneurs & makers who live and work on their own terms. Every Friday, you’ll get hand-picked startup resources & essays exploring the future of work in the exponential age. By [Marc Eglon](https://twitter.com/MarcEglon).
+  适合独立生活和工作的独立企业家和制造商。每个星期五，您都会获得精心挑选的创业资源和文章，探索指数时代的未来工作。由 [Marc Eglon](https://twitter.com/MarcEglon) 发起。
   
 - **[Bootstrap Money](https://bootstrap.money)**
   
-  Weekly roundups of stories, guides and resources to help you grow your internet business. Every Friday. Free.
-  Curated by [Nicolas de Thoré](https://twitter.com/ndethore)
+  每周五免费提供汇总的指南和资源，以帮助个人发展独立的互联网业务。由 [Nicolas de Thoré](https://twitter.com/ndethore) 发起。
 
 ### 播客
 
@@ -302,48 +304,49 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 
   Revenue numbers and learnings from running a Japanese candy subscription box.
 
-### Events
+### 实时
 
 - **[MicroConf](http://www.microconf.com/)** [$]
 
-  "The worlds biggest conference for the worlds smallest self-funded software companies". It has two editions, one more focused to starters, and another one focused on growth. Both last two days. Las Vegas. Run by [Rob Walling](https://twitter.com/robwalling) and [Mike Taber](https://twitter.com/SingleFounder).
+  "The worlds biggest conference for the worlds smallest self-funded software companies". 它有两个版本，一个面向初学者，一个面向增长，
+  由 [Rob Walling](https://twitter.com/robwalling) 和 [Mike Taber](https://twitter.com/SingleFounder) 创办。
   
 - **[MicroConf Europe](http://www.microconfeurope.com/)** [$]
 
-  MicroConf's European edition. Barcelona. Run by [Rob Walling](https://twitter.com/robwalling) and [Mike Taber](https://twitter.com/SingleFounder).
+  MicroConf 的欧洲版本，由 [Rob Walling](https://twitter.com/robwalling) 和 [Mike Taber](https://twitter.com/SingleFounder) 创办。
   
 - **[BaconBizConf](http://baconbiz.com/)** [$]
 
-  "An alliance for B2B bootstrappers". Philadelphia. By [Amy Hoy](https://twitter.com/amyhoy) and [Alex Hillman](https://twitter.com/alexhillman).
+  在费城举办的关于 B2B bootstrappers 联盟的会议，由 [Amy Hoy](https://twitter.com/amyhoy) 和 [Alex Hillman](https://twitter.com/alexhillman) 创办。
   
 - **[StartupSchool](https://www.startupschool.org/)**
 
-  Free event organized by seed accelerator [YCombinator](http://www.ycombinator.com/). You have to be a bit lucky to get in. Also, this suggestion goes a little bit against the idea of "bootstrapped" but YCombinator has a lot of good resources for us indie hackers!
+  由 [YCombinator](http://www.ycombinator.com/) 组织的免费活动，你必须有些幸运才能加入，YCombinator 为你提供了很多资源。
   
 ##### Not specific to indie founders:
 
 - **[Business of Software](http://businessofsoftware.org/)** [$]
 
-  "Business of Software is not based in Silicon Valley for good reason. It is about building long term, sustainable software businesses. …a thoughtful conference, where people come to listen and learn, not self promote and shout". Boston. [Team behind BoS](http://thebln.com/team/).
+  它是关于可建立长期，可持续的软件业务，在波士顿，这是一个很棒的会议，很多人都过来参加学习。[Team behind BoS](http://thebln.com/team/).
   
 - **[Business of Software Europe](http://businessofsoftware.eu/)** [$]
 
-  BoS European edition. London. [Team behind BoS](http://thebln.com/team/).
+  Business of Software 欧洲版在伦敦. [Team behind BoS](http://thebln.com/team/).
 
 - **[B2B Rocks](https://b2brocks.co/)** [$]
 
-  "Leading conferences for B2B and SaaS startups". Popular business model for indie devs. Paris. Sydney.
+  这是关于 B2B 和 SaaS 业务的会议，探索一些流行的商业模式，举办地：巴黎，悉尼。
 
 - **[PeersConf](http://peersconf.com/)** [$]
+  
+  在西雅图举办的面向 Web 业务的会议，由 [Jessica D'Amico](https://twitter.com/justjessdc) 创办。
 
-  "A conference for those who make the web, and make it their business". Seattle (changes every year). By [Jessica D'Amico](https://twitter.com/justjessdc).
-
-### Books
+### 书籍
 
 - **[Start Small, Stay Small](https://www.amazon.com/Start-Small-Stay-Developers-Launching-ebook/dp/B003YH9MMI/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1493983910&sr=1-1&keywords=start+small+stay+small)** [$] by [Rob Walling](https://twitter.com/robwalling).
-- **[Building Micro-SaaS Businesses](https://tylertringas.com/micro-saas-ebook/)** by [Tyler Tringas](https://twitter.com/tylertringas). - A collection of very well structured posts that cover the most initial struggles of an indie dev on the way to build a MicroSaaS. I can personally endorse it and I'm eager to read the yet to be written chapters :)
+- **[Building Micro-SaaS Businesses](https://tylertringas.com/micro-saas-ebook/)** by [Tyler Tringas](https://twitter.com/tylertringas). - Micro-SaaS 是由一个人或一支小团队运营的软件服务，这本书主要讲述如何构建一个 Micro-SaaS 并从中获取收益，我个人很认可它并期待还未编写的章节。
 - **[The Single Founder Handbook](http://www.singlefounderhandbook.com/)** [$] by [Mike Taber](https://twitter.com/SingleFounder).
-- **[Getting Real](https://gettingreal.37signals.com/)** by [37signals](https://37signals.com). - More focused on building web applications, I really recommend it. Short, straight to the point, very easy to read and full of valuable content.
+- **[Getting Real](https://gettingreal.37signals.com/)** by [37signals](https://37signals.com). - 专注于构建 Web 应用程序，我推荐它的原因是其内容简短并易于阅读。
 - **[MAKE](https://makebook.io/)** [$] by [Pieter Levels](https://twitter.com/levelsio).
 - **[Rework](https://37signals.com/rework)** [$] by [37signals](https://37signals.com).
 - **[Just Fucking Ship](https://unicornfree.com/just-fucking-ship/)** [$] by [Amy Hoy](https://twitter.com/amyhoy) and [Alex Hillman](https://twitter.com/alexhillman).
@@ -352,73 +355,73 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 
 ##### Other
 
-- **[Groundera.com](https://groundera.com/)** - A collection of indie books, most of them free, for entrepreneurs. By [Philipp](https://groundera.com/about).
-- **[SideProject Books](https://books.makesideproject.com/)** - Side Project Books is a curated collection of books for anyone interested in building a business on the side. By [Mubashar Iqbal](https://twitter.com/mubashariqbal)
+- **[Groundera.com](https://groundera.com/)** - 为你提供了很多独立开发相关的书籍并且大部分还是免费的。 By [Philipp](https://groundera.com/about).
+- **[SideProject Books](https://books.makesideproject.com/)** - Side Project Books 是一本精选的书籍集合，适合于任何有兴趣建立业务的人。 By [Mubashar Iqbal](https://twitter.com/mubashariqbal)
 - **[The SaaS Bootstrapper book list](http://thesaasbootstrapper.com/book-list/)** - Collection curated by [Mac Martine](http://macmartine.com/). 
 - **[Badass: Making Users Awesome](https://www.amazon.com/Badass-Making-Awesome-Kathy-Sierra-ebook/dp/B00VAUIM18/ref=sr_1_1?s=books&ie=UTF8&qid=1493985078&sr=1-1&keywords=badass+kathy+sierra)** [$] by [Kathy Sierra](http://seriouspony.com/).
 - **[Anything You Want](https://www.amazon.com/dp/B00SI0B5FS/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)** [$] by [Derek Sivers](https://twitter.com/sivers).
 - **[Founders at Work](https://www.amazon.com/Founders-Work-Stories-Startups-Early-ebook/dp/B009IXMK4O/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1493985002&sr=1-1&keywords=founders+at+work)** [$] by [Jessica Livingston](https://twitter.com/jesslivingston).
 - **[SideProject Book](http://www.sideprojectbook.com/)** - [$49].
 
-### Tools
+### 工具
 
 - **[The SaaS Bootstrapper Startup Resources](http://thesaasbootstrapper.com/saas-startup-resources/)**
 
-  A collection of resources for bootstrappers put together by [Mac Martine](http://macmartine.com/). 
+  SaaS Bootstrap资源集合。由[Mac Martine](http://macmartine.com/) 整理。
 
 - **[free-for-dev](https://github.com/ripienaar/free-for-dev)**
 
-  A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev. Very useful for bootstrappers to keep initial costs low ;) By [R. I. Pienaar](https://github.com/ripienaar/).
+  一组SaaS、PaaS和IaaS工具，提供免费的devops和infradev服务，可以降低Bootstrap开发的起步成本。由[R. I. Pienaar](https://github.com/ripienaar/)整理。
   
 - **[Stack-on-a-budget](https://github.com/255kb/stack-on-a-budget)**
 
-  Another list of SaaS, PaaS, and Iaas offerings that have free tiers for developers on a budget. Very useful for exploring ideas and building out proof of concept. By [Guillaume (256kb)](https://github.com/255kb/).
+  另一组SaaS、PaaS和Iaas工具，为预算有限的开发者提供免费服务，对探索和验证新的想法和概念非常有用。由[Guillaume (256kb)](https://github.com/255kb/)整理。
 
 - **[Tools Of The Trade](https://github.com/cjbarber/ToolsOfTheTrade)**
 
-  Spectacular list of categorized tools for developers resulting from HackerNews threads. By [Chris Barber](https://twitter.com/chrisbarber) and [Craig Davison](https://twitter.com/davisonio).
+  来自HackerNews的一组很好的开发者工具分类列表。由[Chris Barber](https://twitter.com/chrisbarber)和[Craig Davison](https://twitter.com/davisonio)整理。
 
 - **[awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted)**
 
-  "This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers." Lots of salvageable software :P by [Edward D](https://github.com/Kickball).
+  “这是一组免费的可在本地服务器上使用的软件网络服务，自服务(selfhosting)就是使用本地服务器(代替租用SaaS)管理应用”。由[Edward D](https://github.com/Kickball)整理。
 
-### Courses
+### 课程
 
-Again, I'm not quite fond of listing [$] products made by indie developers targeting indie developers, especially because I haven't tried them myself, but due to several references I assume they are probably worth it and some people might find value in learning about them.
+重申一下，我其实不太想列出由独立开发者提供的、面向独立开发者的产品，因为我也没有逐一亲自使用过这些产品。但是根据一些参考推荐，我认为下面的这几个应该是比较有学习价值的：
 
 - **[Marketing for Developers](https://devmarketing.xyz/)** [$]
 
-  "An online marketing course for software developers & product people". Read some reviews [here](https://www.producthunt.com/posts/marketing-for-developers). By [Justin Jackson](https://twitter.com/mijustin).
+  一个面向软件开发者和产品人员的在线市场课程。课程评价可以看[这里](https://www.producthunt.com/posts/marketing-for-developers)。由[Justin Jackson](https://twitter.com/mijustin)提供。
   
 - **[30x500 Academy](https://30x500.com/academy/)** [$]
 
-  "Pick your customer. Learn how they tick. Learn what they need, want, and are ready to buy." Find reviews [here](http://codefol.io/posts/30x500-why)(good), [here](https://news.ycombinator.com/item?id=8119354)(bad) and [here](https://www.quora.com/How-do-30x500-and-How-To-Make-Your-First-Dollar-compare). By [Amy Hoy](https://twitter.com/amyhoy) and [Alex Hillman](https://twitter.com/alexhillman). 
+  “选择你的客户。分析他们怎么做选择、需要什么、想要什么以及准备买什么”。可以看课程评价：[好评](http://codefol.io/posts/30x500-why)、[差评](https://news.ycombinator.com/item?id=8119354)还有[这个](https://www.quora.com/How-do-30x500-and-How-To-Make-Your-First-Dollar-compare)。由[Amy Hoy](https://twitter.com/amyhoy)和[Alex Hillman](https://twitter.com/alexhillman)提供。 
 
 <!-- https://www.appsumo.com/how-to-make-your-first-dollar/ -->
 <!-- https://fizzle.co/ -->
 
-## Specific topics
+## 更多议题
 
-In the future, I'd like to have a list of resources for more specific topics or FAQs such as: 
+后面我打算针对更多相关议题或者常见问题给出资源，比如： 
 
- - 'how to get ideas'
+ - 如何取得创意
  <!-- http://www.oppsdaily.com/ -->
  <!-- https://nugget.one/daily -->
  <!-- https://www.oppslist.com/ -->
- - 'how to find betatesters'
- - 'how to find my first 100 users'
+ - 如何找到测试者
+ - 如何找到我的第一个100个用户
  <!-- https://promotehour.com/ -->
  <!-- awesome places to post your startup -->
- - 'how to validate my idea'
+ - 如何验证我的创意
  <!-- https://training.kalzumeus.com/newsletters/archive/validating_product_ideas -->
- - 'where to advertise my project'
- - 'what paid ads work better'
- - 'i've got 100 users, how to grow'
- - 'how do i deal with support'
- - 'types of digital products'
- - 'legal aspects'
+ - 去哪里推广我的项目
+ - 什么付费广告更有用
+ - 有了100个用户之后怎么增长
+ - 如何处理赞助
+ - 数字产品的类型
+ - 法律问题
  <!-- https://termsfeed.com -->
- - 'typical mistakes'
+ - 典型错误
  <!-- https://www.47hats.com/2017/05/10/startup-mistake-1-anonymous-startup/ -->
  
-Help me make a proper list of specific topics!
+欢迎提议，让我可以给出一个更合理的议题列表！
