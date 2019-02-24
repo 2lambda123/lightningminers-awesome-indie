@@ -29,9 +29,9 @@ by **[@mezod](https://twitter.com/mezood)** (Doing things every day with **[ever
 - [简讯](#简讯)
 - [播客](#播客)
 - [演讲](#%E6%BC%94%E8%AE%B2)
-- [Posts](#posts)
-- [Blogs](#blogs)
-- [Case Studies](#case-studies)
+- [博文](#博文)
+- [博客](#博客)
+- [实例](#实例)
 - [实时](#实时)
 - [书籍](#书籍)
 - [工具](#工具)
@@ -189,120 +189,121 @@ by **[@mezod](https://twitter.com/mezood)** (Doing things every day with **[ever
 - **[Talks from the BaconBizConf](http://baconbiz.com/)**
 - **[Talks from Business of Software](http://businessofsoftware.org/2016/07/all-talks-from-business-of-software-conferences-in-one-place-saas-software-talks/)**
 
-### Posts
+### 博文
 
 - **[I’m Launching 12 Startups in 12 Months](https://levels.io/12-startups-12-months/)** by [Pieter Levels](https://twitter.com/levelsio)
 
-  The challenge that started it all for Pieter. It inspired me to do something similar. What matters is to create and ship a lot, learning in the process, until something is worth pushing further.
+  这篇播客是关于 Pieter 启动 12 次创业过程中遇到的挑战。它赋予我做同样事情的灵感。创业的重点在于必须要去做，并且需要在这一过程中学习，直到这次创业值得进一步推进。
 
 - **[Don't Call Yourself A Programmer, And Other Career Advice](http://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/)** by [Patrick McKenzie](https://twitter.com/patio11?lang=ca)
 
-  Patrick has written over 500 posts and I have obviously not read all of them, but of the many I've read, I chose this one...
+  Patrick 写了超过 500 篇播客，很显然我没能全部看完。在我所看的博客中，我选择推荐这篇...
 
 - **[Running A Software Business On 5 Hours A Week](http://www.kalzumeus.com/2010/03/20/running-a-software-business-on-5-hours-a-week/)** by [Patrick McKenzie](https://twitter.com/patio11?lang=ca)
 
-  ...and this one too :D
+  ...和这篇 :D
 
 - **[Storemapper: Bootstrapped to $50,000/year in 2 years (with live metrics)](https://tylertringas.com/storemapper-bootstrapped-to-50000year-in-2-years-with-live-metrics/)** by [Tyler Tringas](https://twitter.com/tylertringas)
 
-  This is just an example of a business more than one would be happy with :-) Besides liking how Tyler shares his story building Storemapper, I think he always maximizes for valuable content.
+  这是一篇绝大多数人看后都会觉得很满意的创业案例。除了喜欢他分享打造 Storemapper 的故事之外，我觉得他总是能最大化那些有价值的内容。
 
 - **[Why You Should Do A Tiny Product First](https://unicornfree.com/2013/why-you-should-do-a-tiny-product-first)** by [Amy Hoy](https://twitter.com/amyhoy)
 
-  This is the first of a series by Amy Hoy. I'll be honest, I don't even remember what this was about, just that I found it worth my time. Oh wait, yeah, Amy told me not to code, at least at first. I haven't still gotten there...
+  这是 Amy Hoy 一系列文章中的第一篇。老实说，我不太记得这篇文章讲的内容了，只是我觉得这篇文章值得我去阅读。嗷，等等！我记得 Amy 告诉过我不要一开始就敲代码。我还没有到那一步...
 
 - **[The Epic Guide to Bootstrapping a SaaS Startup from Scratch — By Yourself](https://medium.com/@cliffordoravec/the-epic-guide-to-bootstrapping-a-saas-startup-from-scratch-by-yourself-part-1-4d834e1df8c1)** by [Clifford Oravec](https://twitter.com/cliffordoravec)
 
-  Another series on what solo bootstrapping is about, with an offensive twist. 
+  这个系列是关于独立创业的，内容转折蛮大。
 
 - **[How to get more customers](https://medium.com/product-people/how-to-get-more-customers-54f64220e430)** by [Justin Jackson](https://twitter.com/mijustin).
 
-  This is a bit of a too specific topic for this general selection of posts, but the hell, you need to read it before it's too late. Ok, I'm starting to sound marketingy :D 
+  对于这种一般选择的博客，这是一个太具体的主题。但是，你需要在为时已晚之前读它。好的，我开始营销了。
 
 - **[Indie Startups: The Ingredients of Success](https://hackernoon.com/indie-startups-the-ingredients-of-success-74531fe3a019)** by [fpgaminer](https://hackernoon.com/@fpgaminer)
 
-  Numbers with meaning. fpgaminer analyzed all the products featured on IndieHackers, extracted some statistics and got to some conclusions. Also worth reading for the approach.
+  数据能说话。fpgaminer 分析了 IndieHackers 上的所有产品，得到了一些统计数据和结论。同样值得一读。
 
 - **[What you should know as a founder of a software company](https://qotoqot.com/blog/founder-skills/)** by [Ivan Mir](https://twitter.com/ivmirx)
 
-  A guide to the complex world of modern software business: everything from UX design to marketing and writing, with a list of resources to start with each topic.
-  
+  现代复杂软件领域的向导：囊括了从 UX 设计到市场、写作，并且为每一个主题提供了一份启动清单。
 
-##### Others
-There's obviously a million posts on the topic. I'm sure this is not a good selection but it'll get you started. Here you can find some more:
+##### 其他博客
+
+很显然，有成千上万篇关于这个主题的博客。我也确定这不是一份好的清单，但是它会让你开始行动起来。这里，你能发现更多内容：
 
 - **[Bootstrappers.io](https://bootstrappers.io/)**
 - **[HackerNoon](https://hackernoon.com/)**
 - **[HackerNews](https://news.ycombinator.com/)**
 - **[7 Articles for Indie Devs to Start Shipping](https://hackernoon.com/7-articles-for-indie-devs-to-start-shipping-12b22f5e5660)** - great selection by [Alex Moskovski](https://twitter.com/mskvsk)
 
-### Blogs
+### 博客
 
 - **[Patrick Mackenzie](http://www.kalzumeus.com/)**
 
-  Over 500 posts that show how Patrick went from being a software engineer to running successful software businesses.
+  这个博客上面有超过 500 篇博文，展示了 Patrick 从软件开发到运营成功的软件项目的过程。
   
 - **[Rob Walling](http://www.softwarebyrob.com/)**
 
-  Lessons Learned by a Solo Entrepreneur.
+  独立开发者学习的课程。
   
 - **[Pieter Levels](https://levels.io/)**
 
-  Lots of advice on bootstrapping businesses if you dig between Pieter's multiple interests.
+  如果你挖掘 Pieter 的多个兴趣，你将会得到关于创业的大量建议。
   
 - **[Tyler Tringas](https://tylertringas.com/)**
 
-  On SaaS and his journey with Storemapper.
+  关于 SaaS 和 Tyler 创造 Storemapper 的历程。
   
 - **[Joel Spolsky](https://www.joelonsoftware.com/)**
 
-  Software and business have always been topics Joel has covered. StackOverflow and Trello prove he knows what he's talking about.
-  
+  软件和商业一直是 Joel 擅长的主题。StackOverflow 和 Trello 证明了他懂得他所说的。
+
 - **[Signal v. Noise](https://m.signalvnoise.com/)**
 
-  The blog of the basecamp people, mostly David Heinemeier Hansson and Jason Fried, on business and how to run bootstrapped companies.
+  这个博客是 David Heinemeier Hansson 和 Jason Fried 的大本营。在上面他们记录了关于商业和如何运营创业公司。
   
 - **[Pinboard](https://blog.pinboard.in/)**
 
-  Maciej Cegłowski's blog for his bookmarking tool, pinboard, useful in showing the growth of a successful solo business.
+  Maciej Cegłowski 为他的书签工具--pinboard创建的博客，这个博客在展示一个成功的创业项目的成长上很有作用。
   
-##### Others
+##### 其他博客
   
-- **[The Foundation](https://thefoundation.com/blog)** - Turning the process of creating a B2B SaaS business into a formula.
-- **[Price Intelligently](http://www.priceintelligently.com/blog)** - Blog focused on the economics of the SaaS business model and SaaS pricing.
-- **[Moz Blog](https://moz.com/blog)** - For anything related to SEO.
-- **[Paul Graham](http://www.paulgraham.com/articles.html)** - A lot of content for big funded startups, but still relevant to bootstrappers.
-- **[John O'Nolan](https://john.onolan.org/)** - Especially the older posts on how he started ghost.
+- **[The Foundation](https://thefoundation.com/blog)** - 
+将创造一项 B2B SaaS 业务变成一个范式。
+- **[Price Intelligently](http://www.priceintelligently.com/blog)** - 专注于 SaaS 业务模型和 SaaS 价格经济学原理的博客。
+- **[Moz Blog](https://moz.com/blog)** - 与 SEO 相关的一切。
+- **[Paul Graham](http://www.paulgraham.com/articles.html)** - 大量包含收到巨型融资的创业公司的内容，但是同样适用与个人创业者。
+- **[John O'Nolan](https://john.onolan.org/)** - 需要特别注意的是他关于创造 ghost 的老帖子。
 
-### Case Studies
+### 实例
 
 - **[IndieHackers](https://www.indiehackers.com/blog)**
 
-  From capturing a trend to getting acquired in less than one year.
+  从流行到获利花了不到一年时间。
 
 - **[NomadList](https://levels.io/product-hunt-hacker-news-number-one/)**
 
-  Solving your own pain, representing a movement, moving fast and working hard by a serial bootstrapper.
+  解决你自己的痛苦、标志性动作、快速响应，根据一个流程性的引导努力工作。
 
 - **[Bugmuncher](https://www.bugmuncher.com/blog/)**
 
-  Transparent growth and financial reports by a solo saas founder.
+  关于一个独立 SaaS 创始人的透明成长和财务报表。
 
 - **[37signals](http://37signals.com/bootstrapped)**
 
-  A collection of bootstrapped companies by the people at 37 signals.
+  37signals 用户的创业公司集合。
 
 - **[Baremetrics](https://baremetrics.com/blog)**
 
-  An example of riding the wave.
+  一个站在风口上的创业例子。
   
 - **[Carrd.co](https://themakingof.carrd.co/#)**
 
-  [AJ](https://twitter.com/ajlkn) writes about the making of carrd.co and the different steps that he took on the way to a successful product.
+  [AJ](https://twitter.com/ajlkn) 写了 carrd.co 的建立过程，以及他创造一个成功产品使用的不同步骤。
   
 - **[CandyJapan](https://www.candyjapan.com/behind-the-scenes)**
 
-  Revenue numbers and learnings from running a Japanese candy subscription box.
+  运营一个日本人的糖果订阅箱得到的收入和经验。
 
 ### 实时
 
